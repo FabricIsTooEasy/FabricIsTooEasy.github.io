@@ -2,7 +2,13 @@
 layout: page
 ---
 
-Fabric Is Too Easy (FITE) is a project bringing [Fabric](https://fabricmc.net/) to Minecraft 1.6.4 MITE.
+<div align="center">
+
+**Fabric Is Too Easy (FITE)** is a project bringing [Fabric](https://fabricmc.net/) to Minecraft 1.6.4 MITE.
+
+[**Installer Download**](https://github.com/FabricIsTooEasy/installer) | [**GitHub Repo**](https://github.com/FabricIsTooEasy/)
+
+</div>
 
 ## Projects
 
