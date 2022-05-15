@@ -5,7 +5,3 @@ url: "https://fabricistooeasy.github.io"
 theme: minima
 plugins:
   - jekyll-seo-tag
-
-exclude:
-  - serve.sh
-  - jsconfig.json
