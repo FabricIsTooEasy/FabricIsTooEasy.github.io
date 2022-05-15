@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+title: Fabric Is Too Easy (FITE)
+baseurl: ""
+url: "https://fabricistooeasy.github.io"
+
+theme: minima
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - serve.sh
+  - jsconfig.json
